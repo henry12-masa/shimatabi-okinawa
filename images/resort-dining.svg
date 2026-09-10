@@ -1,0 +1,25 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="rbg1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#ffe9b8"/>
+<stop offset="55%" stop-color="#3fc8b0"/>
+<stop offset="100%" stop-color="#0c7a6c"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#rbg1)"/>
+<circle cx="320" cy="55" r="24" fill="#fff4d6"/>
+<path d="M0 165 Q100 155 200 165 T400 160 V300 H0 Z" fill="#0e7c9d" opacity="0.5"/>
+<!-- table setting -->
+<ellipse cx="200" cy="240" rx="170" ry="28" fill="#f7f0dd"/>
+<circle cx="150" cy="235" r="30" fill="#ffffff"/>
+<ellipse cx="150" cy="233" rx="20" ry="8" fill="#e35d3d"/>
+<circle cx="150" cy="230" r="6" fill="#3fc8b0"/>
+<circle cx="250" cy="235" r="26" fill="#ffffff"/>
+<ellipse cx="250" cy="233" rx="16" ry="7" fill="#ffb347"/>
+<!-- wine glass -->
+<path d="M310 210 L318 235 L302 235 Z" fill="#c1401f" opacity="0.8"/>
+<line x1="310" y1="235" x2="310" y2="250" stroke="#dfe6e9" stroke-width="3"/>
+<!-- candle -->
+<rect x="195" y="210" width="10" height="20" fill="#fff4d6"/>
+<circle cx="200" cy="205" r="5" fill="#ffb347"/>
+</svg>

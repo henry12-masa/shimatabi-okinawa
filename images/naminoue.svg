@@ -1,0 +1,28 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="sky4" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#4fc3d9"/>
+<stop offset="100%" stop-color="#0e7c9d"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#sky4)"/>
+<circle cx="70" cy="60" r="22" fill="#ffffff" opacity="0.9"/>
+<!-- sea -->
+<rect y="210" width="400" height="90" fill="#0a4f66"/>
+<path d="M0 210 Q50 200 100 210 T200 210 T300 210 T400 208 V220 H0 Z" fill="#4fc3d9" opacity="0.6"/>
+<!-- cliff -->
+<path d="M0 300 V190 Q120 150 180 190 V300 Z" fill="#8a6b45"/>
+<path d="M0 190 Q120 150 180 190" fill="none" stroke="#5b4636" stroke-width="3"/>
+<!-- torii gate on cliff -->
+<rect x="80" y="120" width="8" height="55" fill="#e35d3d"/>
+<rect x="130" y="120" width="8" height="55" fill="#e35d3d"/>
+<rect x="72" y="110" width="74" height="10" fill="#c1401f"/>
+<rect x="78" y="128" width="62" height="7" fill="#c1401f"/>
+<!-- shrine roof behind -->
+<polygon points="60,105 200,105 160,80 100,80" fill="#4c2f22"/>
+<rect x="100" y="80" width="60" height="26" fill="#8a3320"/>
+<!-- beach -->
+<path d="M180 300 V230 Q280 210 400 235 V300 Z" fill="#f7f0dd"/>
+<!-- waves -->
+<path d="M180 235 Q250 225 320 240 T400 238" fill="none" stroke="#ffffff" stroke-width="4" opacity="0.7"/>
+</svg>

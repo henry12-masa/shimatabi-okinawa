@@ -1,0 +1,31 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="sky9" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#4fc3d9"/>
+<stop offset="100%" stop-color="#0e7c9d"/>
+</linearGradient>
+<radialGradient id="cave" cx="50%" cy="50%" r="60%">
+<stop offset="0%" stop-color="#8de8ff"/>
+<stop offset="100%" stop-color="#075a76"/>
+</radialGradient>
+</defs>
+<rect width="400" height="300" fill="url(#sky9)"/>
+<!-- cliff top -->
+<path d="M0 0 H400 V90 Q200 60 0 90 Z" fill="#3fc8b0"/>
+<path d="M0 60 H400 V90 Q200 60 0 90 Z" fill="#8a6b45" opacity="0.001"/>
+<!-- underwater cave glow -->
+<circle cx="200" cy="200" r="120" fill="url(#cave)"/>
+<!-- rock arch -->
+<path d="M80 300 V120 Q200 40 320 120 V300 Z" fill="#0a4f66" opacity="0"/>
+<path d="M60 300 V130 Q200 50 340 130 V300 H300 V150 Q200 90 100 150 V300 Z" fill="#053a4c"/>
+<!-- light rays -->
+<g stroke="#e8fbff" stroke-width="6" opacity="0.5">
+<line x1="150" y1="60" x2="200" y2="260"/>
+<line x1="200" y1="55" x2="220" y2="270"/>
+<line x1="250" y1="62" x2="240" y2="255"/>
+</g>
+<!-- bubbles -->
+<circle cx="180" cy="230" r="5" fill="#ffffff" opacity="0.7"/>
+<circle cx="195" cy="210" r="4" fill="#ffffff" opacity="0.7"/>
+<circle cx="205" cy="190" r="3" fill="#ffffff" opacity="0.7"/>
+</svg>

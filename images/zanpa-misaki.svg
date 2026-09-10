@@ -1,0 +1,24 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="sky10" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#ffb347"/>
+<stop offset="100%" stop-color="#0e7c9d"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#sky10)"/>
+<circle cx="90" cy="70" r="26" fill="#fff4d6"/>
+<rect y="230" width="400" height="70" fill="#0a4f66"/>
+<path d="M0 230 Q100 218 200 230 T400 226 V240 H0 Z" fill="#4fc3d9" opacity="0.6"/>
+<!-- cliff -->
+<path d="M0 300 V210 Q150 170 260 210 L260 300 Z" fill="#dfe6e9"/>
+<path d="M0 300 V225 Q150 190 260 225 L260 300 Z" fill="#c7cfd2"/>
+<!-- lighthouse -->
+<rect x="220" y="110" width="30" height="110" fill="#ffffff"/>
+<rect x="220" y="110" width="30" height="16" fill="#e35d3d"/>
+<rect x="220" y="142" width="30" height="16" fill="#e35d3d"/>
+<rect x="220" y="174" width="30" height="16" fill="#e35d3d"/>
+<polygon points="218,110 252,110 235,88" fill="#1f2a30"/>
+<rect x="230" y="80" width="10" height="10" fill="#ffe9b8"/>
+<!-- light beam -->
+<path d="M235 95 L300 60 L300 100 Z" fill="#fff4d6" opacity="0.5"/>
+</svg>

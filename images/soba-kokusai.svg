@@ -1,0 +1,29 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="sbg1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#fff0d0"/>
+<stop offset="100%" stop-color="#f7c948"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#sbg1)"/>
+<ellipse cx="200" cy="235" rx="140" ry="24" fill="#c1401f" opacity="0.15"/>
+<!-- bowl -->
+<path d="M90 180 Q200 260 310 180 L295 205 Q200 245 105 205 Z" fill="#e35d3d"/>
+<ellipse cx="200" cy="180" rx="110" ry="30" fill="#fff4e0"/>
+<ellipse cx="200" cy="180" rx="98" ry="24" fill="#e8b84b"/>
+<!-- noodles -->
+<g stroke="#fff4e0" stroke-width="4" fill="none" opacity="0.9">
+<path d="M120 180 Q140 170 160 180 T200 180 T240 180 T280 180"/>
+<path d="M130 190 Q150 182 170 190 T210 190 T250 190"/>
+</g>
+<!-- pork slice -->
+<ellipse cx="230" cy="172" rx="22" ry="14" fill="#f2c6a0"/>
+<ellipse cx="230" cy="172" rx="22" ry="14" fill="none" stroke="#c1401f" stroke-width="3"/>
+<!-- green onion -->
+<circle cx="160" cy="168" r="4" fill="#3fc8b0"/>
+<circle cx="175" cy="172" r="4" fill="#3fc8b0"/>
+<circle cx="190" cy="166" r="4" fill="#3fc8b0"/>
+<!-- steam -->
+<path d="M170 130 Q160 110 175 95" stroke="#ffffff" stroke-width="5" fill="none" opacity="0.7"/>
+<path d="M210 128 Q200 105 215 90" stroke="#ffffff" stroke-width="5" fill="none" opacity="0.7"/>
+</svg>

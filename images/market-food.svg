@@ -1,0 +1,22 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="mbg1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#ffe4c0"/>
+<stop offset="100%" stop-color="#e35d3d"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#mbg1)"/>
+<!-- plate -->
+<ellipse cx="200" cy="210" rx="150" ry="38" fill="#ffffff"/>
+<ellipse cx="200" cy="206" rx="130" ry="30" fill="#f7f0dd"/>
+<!-- whole fish -->
+<path d="M110 200 Q170 175 260 200 Q170 225 110 200 Z" fill="#4fc3d9"/>
+<path d="M260 200 L285 185 L285 215 Z" fill="#4fc3d9"/>
+<circle cx="130" cy="198" r="5" fill="#1f2a30"/>
+<path d="M150 190 Q170 185 190 192" stroke="#0e7c9d" stroke-width="3" fill="none"/>
+<path d="M150 210 Q170 215 190 208" stroke="#0e7c9d" stroke-width="3" fill="none"/>
+<!-- lemon + herb -->
+<circle cx="300" cy="195" r="13" fill="#ffe9b8"/>
+<circle cx="300" cy="195" r="13" fill="none" stroke="#ffb347" stroke-width="3"/>
+<path d="M85 190 Q95 178 105 190" stroke="#0c7a6c" stroke-width="4" fill="none"/>
+</svg>

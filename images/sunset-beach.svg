@@ -1,0 +1,22 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="sky6" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#ffb347"/>
+<stop offset="50%" stop-color="#ff7a59"/>
+<stop offset="100%" stop-color="#c1401f"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#sky6)"/>
+<circle cx="200" cy="150" r="45" fill="#fff4d6"/>
+<rect y="180" width="400" height="120" fill="#8a3320" opacity="0.001"/>
+<path d="M0 190 Q100 178 200 190 T400 188 V300 H0 Z" fill="#0a4f66"/>
+<path d="M0 190 Q100 178 200 190 T400 188" fill="none" stroke="#ffe9b8" stroke-width="3" opacity="0.7"/>
+<path d="M0 240 Q100 230 200 242 T400 238 V300 H0 Z" fill="#f7f0dd"/>
+<!-- silhouette figures -->
+<circle cx="120" cy="230" r="7" fill="#1f2a30"/><rect x="115" y="237" width="10" height="20" fill="#1f2a30"/>
+<circle cx="280" cy="225" r="7" fill="#1f2a30"/><rect x="275" y="232" width="10" height="22" fill="#1f2a30"/>
+<!-- palm -->
+<rect x="30" y="190" width="7" height="55" fill="#4c2f22"/>
+<path d="M33 190 Q10 175 18 158 Q37 172 33 190 Z" fill="#8a3320"/>
+<path d="M33 190 Q56 175 48 158 Q29 172 33 190 Z" fill="#8a3320"/>
+</svg>

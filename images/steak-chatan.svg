@@ -1,0 +1,31 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="stbg2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#ff9a6c"/>
+<stop offset="100%" stop-color="#4c2f22"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#stbg2)"/>
+<!-- grill grate -->
+<rect x="60" y="180" width="280" height="70" rx="8" fill="#1f1410"/>
+<g stroke="#3a1c12" stroke-width="5">
+<line x1="80" y1="180" x2="80" y2="250"/>
+<line x1="130" y1="180" x2="130" y2="250"/>
+<line x1="180" y1="180" x2="180" y2="250"/>
+<line x1="230" y1="180" x2="230" y2="250"/>
+<line x1="280" y1="180" x2="280" y2="250"/>
+<line x1="320" y1="180" x2="320" y2="250"/>
+</g>
+<!-- meat skewers -->
+<ellipse cx="110" cy="200" rx="20" ry="12" fill="#8a3320"/>
+<ellipse cx="160" cy="205" rx="20" ry="12" fill="#c1401f"/>
+<ellipse cx="255" cy="200" rx="20" ry="12" fill="#8a3320"/>
+<ellipse cx="300" cy="207" rx="18" ry="11" fill="#c1401f"/>
+<!-- flames -->
+<g fill="#ffb347" opacity="0.8">
+<path d="M95 250 Q100 235 90 225 Q105 230 105 245 Q112 232 105 220 Q118 228 112 250 Z"/>
+<path d="M255 250 Q260 235 250 225 Q265 230 265 245 Q272 232 265 220 Q278 228 272 250 Z"/>
+</g>
+<!-- smoke -->
+<path d="M150 175 Q140 150 158 130" stroke="#ffffff" stroke-width="6" fill="none" opacity="0.4"/>
+</svg>

@@ -1,0 +1,26 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="sbg2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#ffe4c0"/>
+<stop offset="100%" stop-color="#e88a1a"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#sbg2)"/>
+<!-- tray -->
+<ellipse cx="200" cy="245" rx="160" ry="22" fill="#4c2f22"/>
+<!-- bowl -->
+<ellipse cx="150" cy="185" rx="80" ry="26" fill="#fff4e0"/>
+<ellipse cx="150" cy="185" rx="70" ry="20" fill="#e8b84b"/>
+<g stroke="#fff4e0" stroke-width="3" fill="none">
+<path d="M95 185 Q115 178 135 185 T175 185 T205 185"/>
+</g>
+<ellipse cx="170" cy="178" rx="16" ry="10" fill="#f2c6a0"/>
+<!-- side dish -->
+<ellipse cx="290" cy="200" rx="45" ry="16" fill="#dfe6e9"/>
+<circle cx="275" cy="197" r="9" fill="#0c7a6c"/>
+<circle cx="295" cy="200" r="9" fill="#0c7a6c"/>
+<circle cx="310" cy="196" r="9" fill="#0c7a6c"/>
+<!-- cup -->
+<rect x="60" y="200" width="30" height="34" rx="4" fill="#4fc3d9"/>
+<ellipse cx="75" cy="200" rx="15" ry="5" fill="#8de8ff"/>
+</svg>

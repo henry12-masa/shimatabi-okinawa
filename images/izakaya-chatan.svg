@@ -1,0 +1,25 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="ibg2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#ffb347"/>
+<stop offset="100%" stop-color="#0a4f66"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#ibg2)"/>
+<circle cx="330" cy="60" r="26" fill="#fff4d6"/>
+<path d="M0 190 Q100 178 200 190 T400 186 V300 H0 Z" fill="#0a4f66" opacity="0.6"/>
+<!-- terrace table -->
+<rect x="40" y="230" width="320" height="12" fill="#4c2f22"/>
+<rect x="60" y="242" width="10" height="40" fill="#3a2a1f"/>
+<rect x="330" y="242" width="10" height="40" fill="#3a2a1f"/>
+<!-- plates -->
+<ellipse cx="140" cy="222" rx="42" ry="12" fill="#dfe6e9"/>
+<ellipse cx="140" cy="219" rx="28" ry="7" fill="#e35d3d"/>
+<ellipse cx="260" cy="222" rx="42" ry="12" fill="#dfe6e9"/>
+<circle cx="245" cy="219" r="8" fill="#f2c6a0"/>
+<circle cx="265" cy="219" r="8" fill="#f2c6a0"/>
+<circle cx="278" cy="219" r="8" fill="#f2c6a0"/>
+<!-- glasses -->
+<rect x="190" y="205" width="14" height="24" fill="#8de8ff" opacity="0.8"/>
+<rect x="212" y="205" width="14" height="24" fill="#ffe9b8" opacity="0.8"/>
+</svg>

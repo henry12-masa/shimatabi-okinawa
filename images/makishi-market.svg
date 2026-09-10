@@ -1,0 +1,29 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="sky3" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#fff0d0"/>
+<stop offset="100%" stop-color="#f7c948"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#sky3)"/>
+<rect y="240" width="400" height="60" fill="#c9a46a"/>
+<!-- market building -->
+<rect x="40" y="140" width="320" height="100" fill="#e8825f"/>
+<rect x="40" y="120" width="320" height="24" fill="#c1401f"/>
+<polygon points="20,140 200,90 380,140" fill="#8a3320"/>
+<!-- stall counter -->
+<rect x="60" y="200" width="280" height="40" fill="#4c2f22"/>
+<!-- fish tray -->
+<ellipse cx="120" cy="205" rx="35" ry="10" fill="#dfe6e9"/>
+<ellipse cx="120" cy="203" rx="26" ry="6" fill="#4fc3d9"/>
+<ellipse cx="220" cy="205" rx="35" ry="10" fill="#dfe6e9"/>
+<ellipse cx="220" cy="203" rx="26" ry="6" fill="#e35d3d"/>
+<ellipse cx="300" cy="205" rx="30" ry="9" fill="#dfe6e9"/>
+<ellipse cx="300" cy="203" rx="22" ry="5" fill="#ffb347"/>
+<!-- hanging lanterns -->
+<circle cx="90" cy="150" r="10" fill="#ff7a59"/>
+<circle cx="200" cy="150" r="10" fill="#ff7a59"/>
+<circle cx="310" cy="150" r="10" fill="#ff7a59"/>
+<!-- awning stripes -->
+<rect x="40" y="144" width="320" height="10" fill="#fff4e0"/>
+</svg>

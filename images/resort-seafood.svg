@@ -1,0 +1,26 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="rbg2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#8de8ff"/>
+<stop offset="100%" stop-color="#0c7a6c"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#rbg2)"/>
+<!-- plate -->
+<ellipse cx="200" cy="200" rx="140" ry="42" fill="#ffffff"/>
+<ellipse cx="200" cy="196" rx="120" ry="34" fill="#f7f0dd"/>
+<!-- shrimp -->
+<path d="M130 190 Q160 160 190 185 Q170 195 150 210 Q135 205 130 190 Z" fill="#ff7a59"/>
+<path d="M190 185 Q210 175 225 190" stroke="#e35d3d" stroke-width="4" fill="none"/>
+<path d="M140 195 Q145 205 155 205" stroke="#c1401f" stroke-width="3" fill="none"/>
+<!-- second shrimp -->
+<path d="M230 175 Q260 150 285 172 Q268 182 250 195 Q235 190 230 175 Z" fill="#ff9a6c"/>
+<!-- seaweed/mozuku -->
+<path d="M180 210 Q190 195 200 210 Q210 195 220 210" stroke="#0c7a6c" stroke-width="4" fill="none"/>
+<!-- lemon -->
+<circle cx="290" cy="205" r="16" fill="#ffe9b8"/>
+<circle cx="290" cy="205" r="16" fill="none" stroke="#ffb347" stroke-width="3"/>
+<g stroke="#ffb347" stroke-width="2">
+<line x1="290" y1="192" x2="290" y2="218"/><line x1="277" y1="205" x2="303" y2="205"/>
+</g>
+</svg>

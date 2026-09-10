@@ -1,0 +1,26 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="sky8" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#4fc3d9"/>
+<stop offset="100%" stop-color="#0c7a6c"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#sky8)"/>
+<circle cx="340" cy="55" r="24" fill="#fff4d6" opacity="0.9"/>
+<!-- sea -->
+<rect y="190" width="400" height="110" fill="#0a4f66"/>
+<path d="M0 190 Q100 178 200 190 T400 186 V200 H0 Z" fill="#4fc3d9" opacity="0.5"/>
+<!-- cliff (elephant rock shape) -->
+<path d="M0 300 V150 Q40 120 70 150 Q90 100 130 140 Q160 110 190 150 L190 300 Z" fill="#3fc8b0"/>
+<path d="M0 300 V190 Q40 165 70 190 Q90 150 130 175 Q160 155 190 190 L190 300 Z" fill="#dfe6e9"/>
+<!-- grass texture -->
+<g stroke="#0c7a6c" stroke-width="2">
+<line x1="20" y1="155" x2="22" y2="145"/>
+<line x1="45" y1="152" x2="47" y2="142"/>
+<line x1="100" y1="145" x2="102" y2="135"/>
+<line x1="150" y1="155" x2="152" y2="145"/>
+<line x1="170" y1="155" x2="172" y2="145"/>
+</g>
+<!-- railing/walkway -->
+<line x1="200" y1="230" x2="400" y2="215" stroke="#f7f0dd" stroke-width="6"/>
+</svg>

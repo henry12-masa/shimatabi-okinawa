@@ -1,0 +1,30 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="stbg1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#c98a5a"/>
+<stop offset="100%" stop-color="#4c2f22"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#stbg1)"/>
+<!-- cast iron plate -->
+<ellipse cx="200" cy="200" rx="150" ry="40" fill="#2a1c14"/>
+<ellipse cx="200" cy="190" rx="150" ry="40" fill="#1f1410"/>
+<!-- steak -->
+<path d="M110 175 Q150 145 230 155 Q290 165 280 200 Q250 220 170 215 Q110 210 110 175 Z" fill="#8a3320"/>
+<path d="M110 175 Q150 145 230 155 Q290 165 280 200" fill="none" stroke="#4c2f22" stroke-width="4"/>
+<!-- grill marks -->
+<g stroke="#3a1c12" stroke-width="4" opacity="0.6">
+<line x1="140" y1="165" x2="160" y2="205"/>
+<line x1="175" y1="158" x2="195" y2="210"/>
+<line x1="210" y1="160" x2="230" y2="205"/>
+<line x1="245" y1="170" x2="260" y2="200"/>
+</g>
+<!-- butter -->
+<rect x="185" y="165" width="20" height="14" rx="3" fill="#ffe9b8"/>
+<!-- steam -->
+<path d="M170 130 Q160 105 178 88" stroke="#ffffff" stroke-width="5" fill="none" opacity="0.6"/>
+<path d="M220 128 Q210 100 228 85" stroke="#ffffff" stroke-width="5" fill="none" opacity="0.6"/>
+<!-- garnish -->
+<circle cx="95" cy="190" r="10" fill="#3fc8b0"/>
+<circle cx="300" cy="185" r="12" fill="#e35d3d"/>
+</svg>

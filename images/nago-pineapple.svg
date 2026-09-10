@@ -1,0 +1,27 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="sky14" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#ffe9b8"/>
+<stop offset="100%" stop-color="#6f8dd6"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#sky14)"/>
+<rect y="200" width="400" height="100" fill="#3fc8b0"/>
+<!-- pineapple rows -->
+<g>
+<ellipse cx="60" cy="230" rx="22" ry="14" fill="#ffb347"/>
+<path d="M60 216 L52 195 L60 210 L68 192 L60 216" fill="#0c7a6c"/>
+<ellipse cx="140" cy="245" rx="22" ry="14" fill="#e88a1a"/>
+<path d="M140 231 L132 210 L140 225 L148 207 L140 231" fill="#0c7a6c"/>
+<ellipse cx="220" cy="230" rx="22" ry="14" fill="#ffb347"/>
+<path d="M220 216 L212 195 L220 210 L228 192 L220 216" fill="#0c7a6c"/>
+<ellipse cx="300" cy="248" rx="22" ry="14" fill="#e88a1a"/>
+<path d="M300 234 L292 213 L300 228 L308 210 L300 234" fill="#0c7a6c"/>
+<ellipse cx="365" cy="225" rx="20" ry="13" fill="#ffb347"/>
+<path d="M365 212 L358 192 L365 206 L372 189 L365 212" fill="#0c7a6c"/>
+</g>
+<!-- cart -->
+<rect x="150" y="255" width="60" height="26" rx="4" fill="#e35d3d"/>
+<circle cx="160" cy="288" r="8" fill="#4c2f22"/>
+<circle cx="200" cy="288" r="8" fill="#4c2f22"/>
+</svg>

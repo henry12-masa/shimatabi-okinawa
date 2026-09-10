@@ -1,0 +1,25 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="sky7" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#ff9a6c"/>
+<stop offset="100%" stop-color="#d5522f"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#sky7)"/>
+<!-- trees -->
+<circle cx="60" cy="150" r="40" fill="#0c7a6c"/>
+<circle cx="340" cy="140" r="45" fill="#0c7a6c"/>
+<rect x="55" y="150" width="10" height="60" fill="#4c2f22"/>
+<rect x="335" y="140" width="10" height="70" fill="#4c2f22"/>
+<!-- cave arch -->
+<path d="M120 300 V160 Q200 90 280 160 V300 Z" fill="#5b4636"/>
+<path d="M155 300 V175 Q200 130 245 175 V300 Z" fill="#1f2a30"/>
+<!-- torii inside cave mouth -->
+<rect x="185" y="220" width="7" height="50" fill="#e35d3d"/>
+<rect x="210" y="220" width="7" height="50" fill="#e35d3d"/>
+<rect x="178" y="212" width="46" height="8" fill="#c1401f"/>
+<!-- steps -->
+<rect x="170" y="270" width="60" height="8" fill="#9a7b52"/>
+<rect x="175" y="278" width="50" height="8" fill="#8a6b45"/>
+<rect x="180" y="286" width="40" height="8" fill="#7a5230"/>
+</svg>

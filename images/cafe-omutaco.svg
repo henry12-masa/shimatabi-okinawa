@@ -1,0 +1,28 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="cbg1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#ffe4c0"/>
+<stop offset="100%" stop-color="#ffb347"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#cbg1)"/>
+<!-- plate -->
+<ellipse cx="150" cy="215" rx="90" ry="26" fill="#ffffff"/>
+<!-- rice base -->
+<ellipse cx="150" cy="205" rx="75" ry="20" fill="#f2c6a0"/>
+<!-- omelette -->
+<ellipse cx="150" cy="195" rx="60" ry="18" fill="#ffe066"/>
+<ellipse cx="150" cy="192" rx="50" ry="12" fill="#ffd23f"/>
+<!-- meat sauce -->
+<ellipse cx="150" cy="200" rx="40" ry="8" fill="#c1401f" opacity="0.85"/>
+<!-- lettuce/tomato -->
+<circle cx="95" cy="200" r="10" fill="#e35d3d"/>
+<path d="M195 190 Q210 180 215 195" stroke="#3fc8b0" stroke-width="6" fill="none"/>
+<!-- shaved ice bowl -->
+<path d="M280 240 Q280 200 320 200 Q360 200 360 240 Z" fill="#4fc3d9"/>
+<ellipse cx="320" cy="200" rx="45" ry="18" fill="#ffffff"/>
+<ellipse cx="320" cy="196" rx="38" ry="13" fill="#ffe9b8"/>
+<circle cx="300" cy="190" r="6" fill="#e35d3d"/>
+<circle cx="330" cy="188" r="6" fill="#ff7a59"/>
+<circle cx="340" cy="196" r="5" fill="#e35d3d"/>
+</svg>

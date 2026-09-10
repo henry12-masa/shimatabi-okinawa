@@ -1,0 +1,33 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#4fc3d9"/>
+<stop offset="100%" stop-color="#0a4f66"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#sky)"/>
+<circle cx="330" cy="55" r="28" fill="#ffe9b8" opacity="0.85"/>
+<path d="M0 230 Q100 210 200 225 T400 220 V300 H0 Z" fill="#0c5a72"/>
+<!-- stone base -->
+<rect x="70" y="205" width="260" height="30" fill="#9a7b52"/>
+<rect x="70" y="205" width="260" height="8" fill="#b79a6c"/>
+<!-- castle walls -->
+<rect x="110" y="150" width="180" height="60" fill="#dfe6e9"/>
+<rect x="110" y="150" width="180" height="10" fill="#c7cfd2"/>
+<!-- pillars -->
+<rect x="125" y="150" width="14" height="60" fill="#e35d3d"/>
+<rect x="185" y="150" width="14" height="60" fill="#e35d3d"/>
+<rect x="245" y="150" width="14" height="60" fill="#e35d3d"/>
+<!-- roof -->
+<path d="M95 150 Q200 95 305 150 L285 150 Q200 118 115 150 Z" fill="#8a3320"/>
+<path d="M95 150 Q200 95 305 150 L305 138 Q200 88 95 138 Z" fill="#c1401f"/>
+<!-- roof ridge ornaments -->
+<circle cx="200" cy="98" r="7" fill="#ffb347"/>
+<circle cx="120" cy="140" r="5" fill="#ffb347"/>
+<circle cx="280" cy="140" r="5" fill="#ffb347"/>
+<!-- doorway -->
+<path d="M180 210 Q200 175 220 210 Z" fill="#4c2f22"/>
+<!-- flags -->
+<rect x="60" y="120" width="3" height="40" fill="#e6e6e6"/>
+<path d="M63 122 L90 130 L63 138 Z" fill="#ff7a59"/>
+</svg>

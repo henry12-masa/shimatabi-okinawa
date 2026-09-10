@@ -1,0 +1,35 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="sky11" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#4fc3d9"/>
+<stop offset="100%" stop-color="#2a3f80"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#sky11)"/>
+<!-- light rays -->
+<g stroke="#e8fbff" stroke-width="14" opacity="0.15">
+<line x1="60" y1="0" x2="20" y2="300"/>
+<line x1="160" y1="0" x2="130" y2="300"/>
+<line x1="280" y1="0" x2="320" y2="300"/>
+</g>
+<!-- whale shark -->
+<ellipse cx="190" cy="170" rx="130" ry="42" fill="#6f8dd6"/>
+<ellipse cx="190" cy="170" rx="130" ry="42" fill="none" stroke="#2a3f80" stroke-width="2"/>
+<path d="M60 170 L20 145 L20 195 Z" fill="#6f8dd6"/>
+<path d="M310 170 Q340 150 350 170 Q340 190 310 170 Z" fill="#6f8dd6"/>
+<path d="M190 128 Q195 105 210 108 Q200 125 190 128 Z" fill="#6f8dd6"/>
+<g fill="#e8fbff" opacity="0.85">
+<circle cx="120" cy="155" r="3"/><circle cx="140" cy="150" r="3"/><circle cx="160" cy="158" r="3"/>
+<circle cx="180" cy="150" r="3"/><circle cx="200" cy="158" r="3"/><circle cx="220" cy="150" r="3"/>
+<circle cx="240" cy="158" r="3"/><circle cx="260" cy="152" r="3"/>
+</g>
+<!-- small fish -->
+<g fill="#ffb347">
+<ellipse cx="90" cy="230" rx="10" ry="6"/>
+<ellipse cx="120" cy="245" rx="8" ry="5"/>
+<ellipse cx="310" cy="220" rx="10" ry="6"/>
+</g>
+<!-- bubbles -->
+<circle cx="350" cy="60" r="4" fill="#ffffff" opacity="0.6"/>
+<circle cx="365" cy="90" r="3" fill="#ffffff" opacity="0.6"/>
+</svg>
