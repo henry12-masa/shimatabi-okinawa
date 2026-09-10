@@ -2,6 +2,10 @@
 
 沖縄本島（那覇・北谷・恩納村・本部北部）の観光スポット・グルメ情報を集約した静的HTMLポータルサイト。航空券は楽天トラベル／じゃらん／Skyscannerへの外部リンクで連携。
 
+- 公開URL: https://shimatabi-okinawa.napoblog.com （旧: https://shimatabi-okinawa.pages.dev も引き続き有効）
+- GitHub: https://github.com/henry12-masa/shimatabi-okinawa
+- ホスティング: Cloudflare Pages（GitHub連携で自動デプロイ、main pushで反映）
+
 ## 構成
 
 ```
